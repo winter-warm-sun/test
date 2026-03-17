@@ -1,3 +1,11 @@
+<!-- github-global-translations-start -->
+## 🌐 Translations
+
+[English](./translations/en/README.md) | [日本語](./translations/ja/README.md)
+
+---
+<!-- github-global-translations-end -->
+
 # test
 ### 开发方式
 
