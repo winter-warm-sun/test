@@ -1,7 +1,7 @@
 <!-- github-global-translations-start -->
 ## 🌐 Translations
 
-[한국어](./translations/ko/README.md)
+[Bahasa Melayu](./translations/ms/README.md) | [Türkçe](./translations/tr/README.md)
 
 ---
 <!-- github-global-translations-end -->
